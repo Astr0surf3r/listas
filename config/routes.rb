@@ -1,4 +1,7 @@
 Listas::Application.routes.draw do
+  resources :tareas
+
+
   get "pages/inicio"
 
   get "pages/nosotros"
