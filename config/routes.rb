@@ -1,4 +1,8 @@
 Listas::Application.routes.draw do
+  get "pages/inicio"
+
+  get "pages/nosotros"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
