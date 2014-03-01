@@ -1,4 +1,4 @@
-### Esto repositorio es un exemplo del curso de introducion al Curso Intermedio de Ruby On Rails
+### Esto repositorio es un exemplo del curso de introducción al Curso Intermedio de Ruby On Rails
 
 en eso repositorio tenemos 3 branch
 
