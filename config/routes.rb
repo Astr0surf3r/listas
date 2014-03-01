@@ -2,7 +2,9 @@ Listas::Application.routes.draw do
   get "pages/inicio"
 
   get "pages/nosotros"
-
+  
+  root :to => "pages#inicio"
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
